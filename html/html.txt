@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+<center>
+<h1>السيرة الذاتية</h1>
+<hr>
+<h3>tasnim muhammad bin taleb </h3>
+<hr>
+<p>age:22</p>
+<hr>
+<p>i got diploma(computer,network) from lmam muhammad bin saud university ,i study Bsc (is)</p>
+<hr>
+<p></p>
+<p> 
+<hr>
+<p> 774666165</p>
+<hr>
+<p>address:hadrmout</p>
+<hr>
+</body>
+</html>
+
